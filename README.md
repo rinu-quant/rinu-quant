@@ -18,3 +18,12 @@
 ---
 
 ⚡ *“Chasing speed, precision, and knowledge — one commit at a time.”*
+
+---
+
+## 📊 GitHub Stats
+![Rinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinu-quant&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinu-quant&layout=compact&theme=radical)
+
+## 🌱 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinu-quant&theme=radical)
