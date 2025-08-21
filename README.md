@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rinu 👋
 
-<!--
-**rinu-quant/rinu-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Quant & HFT Developer  
+📈 Exploring the intersection of Computer Science, Trading Systems, and Finance  
+🌱 Currently learning: CS50 (Computer Science fundamentals), Python, and C++  
+🎯 Goal: Build the skills needed to develop ultra-low-latency trading systems  
 
-Here are some ideas to get you started:
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rinu-p-r-784a6737b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Learning Path
+- **Computer Science Foundations** → CS50 (Harvard)  
+- **Programming** → Python for algorithms & prototyping | C++ for performance  
+- **Finance & Trading** → Basics of market microstructure, algorithmic trading concepts  
+- **Systems** → Optimizing code for speed, working toward nanosecond-level execution  
+
+---
+
+⚡ *“Chasing speed, precision, and knowledge — one commit at a time.”*
