@@ -23,9 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![Rinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinu-quant&show_icons=true&theme=radical)
+![Rinu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rinu-quant&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinu-quant&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rinu-quant&layout=compact&theme=radical)
 
 ## 🌱 Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinu-quant&theme=radical)
